@@ -15,3 +15,15 @@ class Solution(object):
             sum = 0
 
         return num
+
+
+# # This is an O(1) solution 
+
+# def digSum(n): 
+
+#     if (n == 0): 
+#         return 0
+#     if (n % 9 == 0): 
+#         return 9 
+#     else: 
+#         (n % 9)
